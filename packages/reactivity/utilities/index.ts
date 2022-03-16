@@ -1,6 +1,4 @@
-import isRef from './isRef'
-import unRef from './unRef'
-import toRef from './toRef'
-import toRefs from './toRefs'
-
-export { isRef, unRef, toRef, toRefs }
+export { default as isRef } from './isRef'
+export { default as unRef } from './unRef'
+export { default as toRef } from './toRef'
+export { default as toRefs } from './toRefs'
