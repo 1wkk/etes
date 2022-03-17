@@ -14,7 +14,8 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "paths": {
-      "@/reactivity": ["./packages/reactivity"]
+      "@/reactivity": ["./packages/reactivity"],
+      "cx": ["./packages/cx"]
     }
   },
   "include": ["packages"]
