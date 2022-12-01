@@ -1,0 +1,4 @@
+- packages:
+    - 'etes'
+    - '@etes/dom'
+    - '@etes/vite-plugin'
